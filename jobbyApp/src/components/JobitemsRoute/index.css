@@ -1,0 +1,165 @@
+.job-item-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  margin-top: 0px;
+}
+
+.job-item-card-container {
+  background-color: #272727;
+  padding: 10px;
+  border-radius: 5px;
+  width: 95%;
+  min-height: 300px;
+  list-style-type: none;
+  margin-left: 0px;
+  max-width: 75%;
+}
+
+.job-item-image-container {
+  width: 8%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.job-item-about-container {
+  display: flex;
+}
+
+.job-item-company-logo {
+  width: 70%;
+}
+
+.job-item-star-and-rating-container {
+  display: flex;
+  height: 40px;
+}
+
+.job-item-star {
+  color: yellow;
+}
+
+.job-item-rating {
+  margin-top: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 25px;
+}
+
+.job-item-location-salary-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  padding-left: 20px;
+  height: 50px;
+}
+
+.job-item-location-type-of-emp-card {
+  display: flex;
+}
+
+.job-item-ctc {
+  font-size: 20px;
+}
+
+.job-item-horizontal-line {
+  background-color: grey;
+  width: 98%;
+}
+.description-and-website-link {
+  display: flex;
+  justify-content: space-between;
+
+  align-items: center;
+  padding-right: 10px;
+}
+.visit-link {
+  color: #6366f1;
+}
+.job-item-details {
+  font-size: 15px;
+  margin-right: 15px;
+  margin-left: 10px;
+  padding-right: 10px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+.job-item-sub-heading {
+  font-size: 22px;
+  padding-left: 15px;
+}
+
+.job-item-description {
+  font-size: 15px;
+  padding-left: 18px;
+  font-family: 'Roboto';
+  color: #cbd5e1;
+  margin-bottom: 25px;
+}
+
+.skills-container {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  min-height: 200px;
+}
+
+.skill-container {
+  display: flex;
+  height: 60px;
+  min-width: 25%;
+  margin: 25px 50px 0px 25px;
+}
+
+.skill-logo {
+  width: 50px;
+  height: 50px;
+  margin-right: 15px;
+}
+
+.life-at-company-container {
+  display: flex;
+  padding: 15px;
+  color: #cbd5e1;
+}
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.align {
+  min-width: 78%;
+}
+
+.similar-jobs-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  padding: 10px;
+  padding-left: 25px;
+}
+
+.similar-job-card-container {
+  background-color: #272727;
+  padding: 10px;
+  border-radius: 5px;
+  width: 25%;
+  margin: 10px;
+
+  min-height: 300px;
+  list-style-type: none;
+  margin-left: 0px;
+  max-width: 75%;
+}
+.similar-job-image-container {
+  width: 40%;
+}

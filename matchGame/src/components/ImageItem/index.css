@@ -1,0 +1,15 @@
+.image-item {
+  padding-left: 0px;
+  width: 200px;
+  height: 200px;
+}
+
+.button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.image {
+  width: 70%;
+}

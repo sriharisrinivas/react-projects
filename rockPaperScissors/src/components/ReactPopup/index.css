@@ -1,0 +1,12 @@
+.rules {
+  width: 70%;
+}
+
+.rules-button {
+  align-self: flex-end;
+  margin-right: 100px;
+  border: 0px;
+  height: 30px;
+  width: 90px;
+  border-radius: 5px;
+}

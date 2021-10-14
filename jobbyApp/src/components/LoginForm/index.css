@@ -1,0 +1,58 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+}
+
+.login-form-container {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  background-color: #272727;
+  height: 70vh;
+  border-radius: 5px;
+  padding: 30px;
+}
+
+.login-logo {
+  width: 40%;
+}
+
+.image-name-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 45px;
+}
+
+.label-name {
+  color: white;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.input {
+  height: 40px;
+}
+
+.error-msg {
+  color: red;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.login-button {
+  margin-top: 15px;
+  width: 50%;
+  color: white;
+  height: 40px;
+  background-color: blue;
+  border: 0px solid;
+  border-radius: 5px;
+}

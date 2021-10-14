@@ -1,0 +1,18 @@
+/* Write your code here. */
+.app-container {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.content-container {
+  display: flex;
+  margin: 25px;
+  justify-content: space-around;
+}
+
+.photo {
+  width: 30%;
+}

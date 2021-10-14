@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.home-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.logo-name-container {
+  display: flex;
+}
+
+.link-container {
+  display: flex;
+}

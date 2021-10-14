@@ -1,0 +1,21 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  height: 100vh;
+}
+
+.not-found-message {
+  color: white;
+  font-size: 30px;
+}
+
+.sorry-message {
+  color: white;
+}
+
+.not-found-image {
+  width: 25%;
+}

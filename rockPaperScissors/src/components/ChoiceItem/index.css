@@ -1,0 +1,10 @@
+.button {
+  background-color: transparent;
+  width: 40%;
+  height: 34vh;
+  border: 0px;
+}
+
+.choice-card {
+  width: 70%;
+}

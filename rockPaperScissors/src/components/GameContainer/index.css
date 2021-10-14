@@ -1,0 +1,26 @@
+.game-container {
+  margin-top: 20px;
+  min-height: 60vh;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 30px;
+}
+
+.choice-card-image {
+  width: 34%;
+  height: 34%;
+}
+
+.result-msg {
+  font-family: 'Roboto';
+  color: white;
+}
+
+.play-again-button {
+  width: 7%;
+  height: 30px;
+  border: 0px;
+  border-radius: 5px;
+}

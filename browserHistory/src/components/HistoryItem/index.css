@@ -1,0 +1,32 @@
+.history-card-container {
+  display: flex;
+  align-items: flex-start;
+  padding: 10px;
+}
+
+.logo-title-url {
+  display: flex;
+  margin-left: 50px;
+  min-width: 85%;
+}
+
+.logo {
+  margin-top: 10px;
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+.title {
+  margin-right: 15px;
+  font-weight: bold;
+}
+
+.delete-icon-container {
+  align-self: flex-end;
+  border: 2px solid red;
+}
+
+.delete-icon {
+  width: 25px;
+  height: 25px;
+}

@@ -1,0 +1,40 @@
+.item-container {
+  display: flex;
+  border: 2px solid #b6c3ca;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 5px;
+  padding: 10px;
+  width: 25%;
+  height: 120px;
+}
+
+.item-image-container {
+  background-color: green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  border-radius: 50px;
+  height: 50px;
+  width: 50px;
+}
+
+.profile-card {
+  font-size: 15px;
+  color: white;
+}
+
+.details {
+  color: white;
+  font-size: 13px;
+}
+
+.button {
+  background-color: transparent;
+  border: 0px;
+}
+
+.delete-icon {
+  width: 40%;
+}
